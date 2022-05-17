@@ -2,6 +2,7 @@
   "expo": {
     "name": "google-sign-in-practice",
     "slug": "google-sign-in-practice",
+    "scheme": "expo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
